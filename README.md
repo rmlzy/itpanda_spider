@@ -1,6 +1,6 @@
-https://www.itpanda.net 的爬虫程序.
+一个[IT类电子书网站](https://www.itpanda.net)的爬虫程序, 此网站大约有400多本高清的电子书, 包括 PDF、epub、mobi、azw3等格式.
 
-抓取后的结果: [](./output.json)
+抓取后的结果参见: [output.json](./output.json)
 
 ## 如何使用
 ```shell script
