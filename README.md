@@ -15,5 +15,7 @@ npm install
 npm run start
 ```
 
+推荐一个 Mac 平台的 epub 阅读器: [Clearview](./docs/Clearview+for+Mac+2.3.2.dmg), 解压密码: `www.ifunmac.com`
+
 TODO: 
 1. 自动保存到百度网盘中
