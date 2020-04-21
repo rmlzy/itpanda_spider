@@ -17,5 +17,4 @@ npm run start
 
 推荐一个 Mac 平台的 epub 阅读器: [Clearview](./docs/Clearview+for+Mac+2.3.2.dmg), 解压密码: `www.ifunmac.com`
 
-TODO: 
-1. 自动保存到百度网盘中
+一份下载好的前端方向的 zip: 链接:https://pan.baidu.com/s/1K2qbnDlvsCwIsYDWzNXXwA  密码:sfbs
